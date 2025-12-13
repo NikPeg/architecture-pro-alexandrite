@@ -36,4 +36,4 @@ kubectl port-forward svc/simplest-query 16686:16686
 Найдите свой трейс и сделайте скриншот.
 Добавьте скриншот в папку с третьим заданием.
 
-Репозиторий: https://github.com/Yandex-Practicum/architecture-alexandrite-k8s-trace
+Репозиторий уже скопирован!
