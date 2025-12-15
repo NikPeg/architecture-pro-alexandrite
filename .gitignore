@@ -9,6 +9,10 @@ Theory/
 # PlantUML generated files with long titles (duplicates of main files)
 C4-Container Diagram: *.png
 
+# Instruction files (temporary documentation)
+**/ИНСТРУКЦИЯ_СКРИНШОТ.md
+**/ИНСТРУКЦИЯ_СКРИНШОТ*
+
 # Temporary files
 *.tmp
 *.bak
