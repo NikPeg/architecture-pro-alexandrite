@@ -47,7 +47,7 @@ System_Boundary(logging, "Логирование") {
 }
 
 ' Определение стиля для тега "new" (новые компоненты логирования)
-AddContainerTag("new", "#FF6B6B", "#FFFFFF", "#CC0000", $legendText="новые компоненты логирования")
+AddContainerTag("new", "#FF6B6B", "#FFFFFF", "#CC0000")
 
 ' Взаимодействия пользователей
 Rel(customer, shopUI, "Просматривает товары, создаёт заказы")
