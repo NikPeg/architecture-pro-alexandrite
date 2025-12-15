@@ -1,1 +1,16 @@
 Theory/
+
+# PlantUML source files (keep only .png outputs)
+*.puml
+
+# PlantUML library files (dependencies)
+**/c4-plantuml/
+
+# PlantUML generated files with long titles (duplicates of main files)
+C4-Container Diagram: *.png
+
+# Temporary files
+*.tmp
+*.bak
+*~
+.DS_Store
